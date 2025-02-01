@@ -1,2 +1,4 @@
-# Coffe-shop-website
- simple, yet powerful coffee shop website built with [technologies used]. Featuring a clean design, responsive layout, and seamless user experience. Perfect for showcasing your local café or launching your own coffee shop online!"  This can be adjusted based on what tech you're using or any specific features of the project.
+# Responsive Coffee Shop Website Design
+### This design is inspired by the work of [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas). Click [here](https://youtu.be/52sKmRsk7xU) to watch the video.
+
+![preview img](/preview.png)
